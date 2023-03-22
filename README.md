@@ -1,6 +1,6 @@
 # Ogrodje Reporting
 
-This is experimental project built for the collection of metrices.
+This is experimental project built for the collection of Ogrodje Podcast metrics.
 
 ## Usage
 
